@@ -1,0 +1,6 @@
+{
+  "name": "Hospital Workflow Intelligence",
+  "description": "Operational workflow platform connecting Admissions, Operating Theatres, CSSD, and Hospital Administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
